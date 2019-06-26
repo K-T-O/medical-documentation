@@ -1,0 +1,82 @@
+.date {
+    font-weight: bold;
+}
+
+.symptoms {
+    font-style: italic;
+}
+
+.scan {
+    font-style: normal;
+}
+
+.alert-custom-small {
+    padding: 7px;
+    margin-bottom: 0px;
+}
+
+.searchResultDate {
+    float: left;
+    width: 170px;
+}
+
+.searchResultTags {
+    font-size: 11px;
+    display: none;
+}
+
+.searchHighlight {
+    background-color: #FFFF88;
+}
+
+.filtersDates {
+    float: left;
+    margin-top: 5px;
+}
+
+.filtersDates input {
+    max-width: 100px;
+    display: inline-block;
+}
+
+.filtersCheckboxes {
+    margin-top: 10px;
+    float: right;
+}
+
+.filtersCheckboxes ul li div {
+    margin-left: 10px;
+}
+
+.dropdown-menu {
+    left: -90px;
+}
+
+.medicineComment {
+    font-size: 12px;
+}
+
+.medicineName {
+    font-weight: bold;
+}
+
+.tableColumnDate {
+    width: 100px;
+}
+
+.tableColumnSymptoms {
+}
+
+.tableColumnDiagnoses {
+}
+
+.tableColumnMedicines {
+    width: 220px;
+}
+
+.tableColumnDocuments {
+}
+
+.panel-ogolnoukladowa {
+    /*background-color: #66CCCC !important;*/
+}
